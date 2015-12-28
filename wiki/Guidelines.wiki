@@ -1,0 +1,30 @@
+#labels Featured,Rough-Draft,Review
+Prefab SVN guidelines and rules
+----
+
+= Rules =
+  # Don't be a jerk.
+  # Give credit where credit is due. 
+  # Don't upload stuff from Valve's  maps or stuff you didn't create. 
+  # Expect anything uploaded to be used by anyone else in their own projects. 
+  # Be willing to accept criticism and fix mistakes.
+
+= Best practices =
+
+  * *Keep prefabs simple.*
+
+    - Some details and textures are OK. But don't use or include custom textures.
+
+    - Keep it on the grid.
+
+    - Make it basic enough so that whoever uses it will want to improvise further with their own details.
+
+    - Exclude overlays, and other entities that don't copy well.
+
+    - Keep props to a minimum, unless they're absolutely part of the prefab (destructible walls and such) then they're OK.
+
+  * *Adding your files* _(still need to work out how to do this neatly)_
+
+    - Just the .VMF files, keep it clean and accurate.
+
+    - An accompanying ReadMe file explaining what we can expect to find in said VMFs that's the same as your file name (except with a txt extension obviously). Until we can come up with a naming scheme that works not requiring these.

@@ -1,0 +1,10 @@
+#labels Rough-Draft,Review
+#The Drawing Board.
+
+= Ideas on where to go from here =
+
+  * Organization ideas
+  * Naming
+  * Directory Structure
+  * Wiki mutation to serve us better
+  * That damn spire.
